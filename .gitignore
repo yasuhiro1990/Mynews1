@@ -1,5 +1,5 @@
-/bootstrap
-/config
+/bootstrap/
+/config/
 /node_modules
 /public/hot
 /public/storage
@@ -12,3 +12,4 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+readme.md
